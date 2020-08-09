@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">GO Weather</string>
+    <string name="_00">00°</string>
+    <string name="feels_like_00">Feels like 00°</string>
+    <string name="_slash">/</string>
+    <string name="one_percent">1 %</string>
+    <string name="degree">°</string>
+    <string name="_zeros">00</string>
+    <string name="month">Month</string>
+    <string name="_0">0</string>
+    <string name="dt">Dt,</string>
+    <string name="el_omraneyah_el_gharbeyah">El Omraneyah El Gharbeyah</string>
+    <string name="GPSAlertDialogTitle">title</string>
+    <string name="GPSAlertDialogMessage">message</string>
+    <string name="action_settings">action</string>
+    <string name="cancel">cancel</string>
+    <string name="text_view">text view</string>
+    <string name="_00_am">00 am</string>
+    <string name="humidity">Humidity</string>
+    <string name="sunset">Sunset</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="uv_index">UV index</string>
+    <string name="hourly">Hourly :</string>
+    <string name="details">Details :</string>
+    <string name="low">Low</string>
+    <string name="_0_00_am">0:00 am</string>
+    <string name="_00_">00%</string>
+    <string name="powered_by">powered by </string>
+    <string name="openweathermap_org"> openweathermap.org</string>
+    <string name="developed_by">Developed by </string>
+    <string name="george_nady"> George Nady</string>
+    <string name="city">City</string>
+</resources>
